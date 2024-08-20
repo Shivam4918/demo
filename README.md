@@ -1,4 +1,4 @@
 # demo
 this is demo repository.
 <br>
-AUTHOR : Prajapati Shivam Brijraj
+AUTHOR : Prajapati Shivam Brijraj(parul university)
